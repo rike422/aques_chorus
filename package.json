@@ -1,0 +1,26 @@
+{
+  "name": "aques_chorus",
+  "version": "0.0.0",
+  "description": "AquesTalk Pi wrapper",
+  "main": "lib/aquesChorus.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rike422/aques_chorus.git"
+  },
+  "keywords": [
+    "AquesTalkPi",
+    "node"
+  ],
+  "author": "rike422",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rike422/aques_chorus/issues"
+  },
+  "dependencies": {
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
